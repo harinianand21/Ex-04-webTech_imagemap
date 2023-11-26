@@ -128,10 +128,14 @@ html>
     </body>
 </html>
 # Output:
-
+![Screenshot 2023-11-25 105727](https://github.com/harinianand21/Ex-04-webTech_imagemap/assets/145742813/77d6ea50-ddb3-4109-9b5b-53cbeac082fd)
+![Screenshot 2023-11-26 150903](https://github.com/harinianand21/Ex-04-webTech_imagemap/assets/145742813/dc7cf8ca-41e2-4537-a96b-8e20cab0ed0a)
+![Screenshot 2023-11-26 150943](https://github.com/harinianand21/Ex-04-webTech_imagemap/assets/145742813/4c94b298-8adc-43b1-bd28-1935dec3351a)
+![Screenshot 2023-11-26 151123](https://github.com/harinianand21/Ex-04-webTech_imagemap/assets/145742813/7054ff0b-8419-4759-9960-305676fd3d94)
+![Screenshot 2023-11-26 151344](https://github.com/harinianand21/Ex-04-webTech_imagemap/assets/145742813/7bbd69e4-f990-4abb-949f-812c828ef93c)
+![Screenshot 2023-11-26 151418](https://github.com/harinianand21/Ex-04-webTech_imagemap/assets/145742813/e3879907-99fe-4e40-adf6-45e8bb2707fa)
 
 
 # Result:
 This Program Executed Successfully
 
-![Screenshot 2023-11-25 105727](https://github.com/harinianand21/Ex-04-webTech_imagemap/assets/145742813/d3b4174c-cf5f-48f4-a832-0049f55878c5)
