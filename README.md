@@ -128,12 +128,12 @@ html>
     </body>
 </html>
 # Output:
-![Screenshot 2023-11-25 105727](https://github.com/harinianand21/Ex-04-webTech_imagemap/assets/145742813/d6545509-e652-454c-957c-e41dfd594ac4)
-![Screenshot 2023-11-26 150903](https://github.com/harinianand21/Ex-04-webTech_imagemap/assets/145742813/d6ed665c-8778-4d8f-bd27-da4169561294)
-![Screenshot 2023-11-26 150943](https://github.com/harinianand21/Ex-04-webTech_imagemap/assets/145742813/804d826d-2f17-4e33-ac7a-cbb8f1510420)
-![Screenshot 2023-11-26 151123](https://github.com/harinianand21/Ex-04-webTech_imagemap/assets/145742813/61daf6e6-be10-45fc-b9fb-a4fa1b3ca7f7)
-![Screenshot 2023-11-26 151344](https://github.com/harinianand21/Ex-04-webTech_imagemap/assets/145742813/6b67b18f-3418-4f5b-af2b-3980ff7e0072)
-![Screenshot 2023-11-26 151418](https://github.com/harinianand21/Ex-04-webTech_imagemap/assets/145742813/2242d27f-cea8-41fb-b6b8-1444df82ce85)
 
 # Result:
 This Program Executed Successfully
+![Screenshot 2023-11-25 105727](https://github.com/harinianand21/Ex-04-webTech_imagemap/assets/145742813/694ff563-71c7-49cb-88f6-7c39dced3dd0)
+![Screenshot 2023-11-26 150903](https://github.com/harinianand21/Ex-04-webTech_imagemap/assets/145742813/80723706-2385-426c-b15b-b64a7303405e)
+![Screenshot 2023-11-26 150943](https://github.com/harinianand21/Ex-04-webTech_imagemap/assets/145742813/470fa62f-1e81-4896-bc73-8788a94fbb97)
+![Screenshot 2023-11-26 151123](https://github.com/harinianand21/Ex-04-webTech_imagemap/assets/145742813/1fc87576-2a92-4703-a7c6-fc48ee2fc588)
+![Screenshot 2023-11-26 151344](https://github.com/harinianand21/Ex-04-webTech_imagemap/assets/145742813/e54eeeb4-02ea-4c89-8313-60527e96234f)
+![Screenshot 2023-11-26 151418](https://github.com/harinianand21/Ex-04-webTech_imagemap/assets/145742813/cc755d99-2068-4c46-8867-7bd2557d6082)
